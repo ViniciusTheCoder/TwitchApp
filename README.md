@@ -1,6 +1,6 @@
 # TwitchApp 📱
 
-- Status: Developing ⚙️
+- Status: Developed ✅
 
 - This is a challenge from Rocketseat Ignite React-Native trail
 - Here I basically used Twitch API to practice oAuth skills
@@ -13,7 +13,23 @@
 - This application uses the oAuth twitch API function, so if u wanna build ur own app with the same features, must read the documentation e create your own URI, if you don't, won't get right
 
 ## How to run 🏃‍♂️🏃‍♂️🏃‍♂️
-- Step one: Git clone
-- Step two: yarn install (installin' dependencies)
-- Step three: yarn start
-- Step four: yarn run android
+
+In root folder, run: 
+
+Start bundle:
+
+```javascript
+expo start
+```
+
+## Some add commands
+
+Install dependencies: 
+
+```javascript
+yarn
+```
+
+```javascript
+expo install
+```
